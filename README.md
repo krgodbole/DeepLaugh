@@ -29,9 +29,13 @@ This notebook processes the audio data to form that can be consumed by tree base
 #### AST Tranformer for Audio modeling
 This notebook walks through the execution of AST transformer to predict laughter points.
 - **File:** [transformer_audio_AST.ipynb](transformer_audio_AST.ipynb)
-#### Laughter Audio
+#### Combining Models
+This notebook walks through the implementation of the DistillBERT model for text, and combines it with the feature based model developed for audio
+- **File** [combining_models.ipynb](https://github.com/krgodbole/DeepLaugh/blob/main/combining_models.ipynb)
+#### Laughter Audio (Future Scope)
 Notebook with implementation of training of the whisper-small model to predict laughter. Seen in Future Work section of presentation. Uses files: processed_targets_output.csv and mp3 audio [files](https://utexas-my.sharepoint.com/personal/as235548_my_utexas_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fas235548%5Fmy%5Futexas%5Fedu%2FDocuments%2Faudio%5Ffiles&ga=1)
 - **File:** [laughterAudio.ipynb](laughterAudio.ipynb)
+
 
 
 
