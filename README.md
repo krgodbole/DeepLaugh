@@ -8,5 +8,5 @@ LLMs were used for this code, to read in files and model.
 ## Associated python notebooks and files are listed below 
 
 ### Content Downloading - Following File Downloads YouTube audio and captions and saves them in a folder
-- **File:** [`Probability_Practice.ipynb`](./Probability_Practice.ipynb)
+- **File:** [`Subtitle Scraper.ipynb`](./Subtitle Scraper.ipynb)
 - 
