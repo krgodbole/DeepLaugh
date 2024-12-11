@@ -12,14 +12,14 @@ LLMs were used for this code, to read in files and model.
 #### Convert Audio - Following File Converts the Downloaded Audio into MP3 Format
 - **File:** File: [Mp3 Converter.ipynb](Mp3%20Converter.ipynb)
 #### Cleaning Videos - Following File Cleans the Downloaded Videos to get rid of excess/unnecessary formatting
-- **File:** [`Video_scrape_clean_v2.ipynb`](Video_scrape_clean_v2.ipynb)
+- **File:** [Video_scrape_clean_v2.ipynb](Video_scrape_clean_v2.ipynb)
 #### Exploratory Data Analysis - File does some basic EDA and creates graphs (mins per video and laughs per video)
-- **File:** [`Video_Clip_EDA.ipynb`](Video_Clip_EDA.ipynb) 
+- **File:** [Video_Clip_EDA.ipynb](Video_Clip_EDA.ipynb) 
 #### Text Analytics
-- **File:** [`TextAnalytics_FeaturesModel.ipynb`](TextAnalytics_FeaturesModel.ipynb)
+- **File:** [TextAnalytics_FeaturesModel.ipynb](TextAnalytics_FeaturesModel.ipynb)
 #### Laughter Audio
-- **File:** [`laughterAudio.ipynb`](laughterAudio.ipynb)
+- **File:** [laughterAudio.ipynb](laughterAudio.ipynb)
 #### Audio Analytics
-- **File:** [`Audio_Analytics_feature_models.ipynb`](Audio_Analytics_feature_models.ipynb)
+- **File:** [Audio_Analytics_feature_models.ipynb](Audio_Analytics_feature_models.ipynb)
 #### Analytics with Transformers
-- **File:** [`transformer_audio_AST.ipynb`](transformer_audio_AST.ipynb)
+- **File:** [transformer_audio_AST.ipynb](transformer_audio_AST.ipynb)
