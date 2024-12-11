@@ -17,3 +17,9 @@ LLMs were used for this code, to read in files and model.
 - **File:** [`Video_Clip_EDA.ipynb`](Video_Clip_EDA.ipynb) 
 ### Text Analytics
 - **File:** [`TextAnalytics_FeaturesModel.ipynb`](TextAnalytics_FeaturesModel.ipynb)
+### Laughter Audio
+- **File:** [`laughterAudio.ipynb`](laughterAudio.ipynb)
+### Audio Analytics
+- **File:** [`Audio_Analytics_feature_models.ipynb`](Audio_Analytics_feature_models.ipynb)
+### Analytics with Transformers
+- **File:** [`transformer_audio_AST.ipynb`](transformer_audio_AST.ipynb)
