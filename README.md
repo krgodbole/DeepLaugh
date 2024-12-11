@@ -13,5 +13,5 @@ LLMs were used for this code, to read in files and model.
 - **File:** File: [Mp3 Converter.ipynb](Mp3%20Converter.ipynb)
 ### Cleaning Videos - Following File Cleans the Downloaded Videos to get rid of excess/unnecessary formatting
 - **File:** [`Video_scrape_clean_v2.ipynb`](Video_scrape_clean_v2.ipynb)
-### Exploratory Data Analysis - File does some basic EDA and creates graphs
+### Exploratory Data Analysis - File does some basic EDA and creates graphs (mins per video and laughs per video)
 - **File:** [`Video_Clip_EDA.ipynb`](Video_Clip_EDA.ipynb) 
