@@ -23,15 +23,17 @@ File does some basic EDA and creates graphs (mins per video and laughs per video
 - **File:** [Video_Clip_EDA.ipynb](Video_Clip_EDA.ipynb) 
 #### Text Analytics
 - **File:** [TextAnalytics_FeaturesModel.ipynb](TextAnalytics_FeaturesModel.ipynb)
-#### Laughter Audio
-- **File:** [laughterAudio.ipynb](laughterAudio.ipynb)
 #### Audio Analytics
+This notebook processes the audio data to form that can be consumed by tree based models. All details of feature engineering can be found here. Audio files used as the raw input can be found [here](https://utexas-my.sharepoint.com/personal/as235548_my_utexas_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fas235548%5Fmy%5Futexas%5Fedu%2FDocuments%2Faudio%5Ffiles&ga=1)
 - **File:** [Audio_Analytics_feature_models.ipynb](Audio_Analytics_feature_models.ipynb)
 #### Analytics with Transformers
+This notebook walks through the execution of AST transformer to predict laughter points.
 - **File:** [transformer_audio_AST.ipynb](transformer_audio_AST.ipynb)
+#### Laughter Audio
+Notebook with implementation of training of the whisper-small model to predict laughter. Seen in Future Work section of presentation. Uses files: processed_targets_output.csv and mp3 audio [files](https://utexas-my.sharepoint.com/personal/as235548_my_utexas_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fas235548%5Fmy%5Futexas%5Fedu%2FDocuments%2Faudio%5Ffiles&ga=1)
+- **File:** [laughterAudio.ipynb](laughterAudio.ipynb)
 
 
-LaughterAudio.ipynb: Audio analytics file which trains the whisper-small model to predict laughter. Seen in Future Work section of presentation. Uses files: processed_targets_output.csv and mp3 audio [files](https://utexas-my.sharepoint.com/personal/as235548_my_utexas_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fas235548%5Fmy%5Futexas%5Fedu%2FDocuments%2Faudio%5Ffiles&ga=1)
 
 
 This project was done as a part of capstone project for the course: Adavanced Machine Learning (MIS382N) instructed by Prof. Joydeep Ghosh. Contributors are  Kedar Godbole, Alex Imhoff, Tara Mary Joseph, Jyoti Kumari, [Aman Sharma](https://github.com/aman-uta-kgp)
