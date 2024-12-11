@@ -10,8 +10,8 @@ LLMs were used for this code, to read in files and model.
 ### Content Downloading - Following File Downloads YouTube audio and captions and saves them in a folder
 - **File:** [Subtitle Scraper.ipynb](Subtitle%20Scraper.ipynb)
 ### Convert Audio - Following File Converts the Downloaded Audio into MP3 Format
-- **File:** [`Mp3_Converter.ipynb`]
+- **File:** File: [Mp3 Converter.ipynb](Mp3%20Converter.ipynb)
 ### Cleaning Videos - Following File Cleans the Downloaded Videos to get rid of excess/unnecessary formatting
-- **File:** [`Video_scrape_clean_v2.ipynb`]
+- **File:** [`Video_scrape_clean_v2.ipynb`](Video_scrape_clean_v2.ipynb)
 ### Exploratory Data Analysis - File does some basic EDA and creates graphs
-- **File:** [`Video_Clip_EDA.ipynb`]  
+- **File:** [`Video_Clip_EDA.ipynb`](Video_Clip_EDA.ipynb) 
