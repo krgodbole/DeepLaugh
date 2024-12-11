@@ -15,3 +15,5 @@ LLMs were used for this code, to read in files and model.
 - **File:** [`Video_scrape_clean_v2.ipynb`](Video_scrape_clean_v2.ipynb)
 ### Exploratory Data Analysis - File does some basic EDA and creates graphs (mins per video and laughs per video)
 - **File:** [`Video_Clip_EDA.ipynb`](Video_Clip_EDA.ipynb) 
+### Text Analytics
+- **File:** [`TextAnalytics_FeaturesModel.ipynb`](TextAnalytics_FeaturesModel.ipynb)
