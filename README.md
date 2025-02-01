@@ -40,4 +40,4 @@ Notebook with implementation of training of the whisper-small model to predict l
 
 
 
-This project was done as a part of capstone project for the course: Adavanced Machine Learning (MIS382N) instructed by Prof. Joydeep Ghosh. Contributors are  Kedar Godbole, Alex Imhoff, Tara Mary Joseph, Jyoti Kumari, [Aman Sharma](https://github.com/aman-uta-kgp)
+This project was done as a part of capstone project for the course: Adavanced Machine Learning (MIS382N) instructed by Prof. Joydeep Ghosh. Contributors are  [Kedar Godbole](https://github.com/krgodbole), Alex Imhoff, Tara Mary Joseph, Jyoti Kumari, [Aman Sharma](https://github.com/aman-uta-kgp)
